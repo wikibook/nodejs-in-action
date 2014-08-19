@@ -1,0 +1,5 @@
+>>> celegans_markers = ['Emb', 'Him', 'Unc', 'Lon', 'Dpy', 'Sma']
+>>> celegans_markers[:4]
+['Emb', 'Him', 'Unc', 'Lon']
+>>> celegans_markers[4:]
+['Dpy', 'Sma']
